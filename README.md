@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio(持续跟新...)
 ## 全网唯一ID：mamawhes（麻麻维奇）
 ## 各站账号
 * 小红书号：6769967993
@@ -33,4 +33,13 @@
 * 项目内置了Mod工具，可实现新增和修改部分功能
 * 用户可以编辑行为树实现场景内机器人的行为
 * 技术栈关键词：C#、Unity、Addressable、HybridCLR、Mirror
-## 有趣的项目
+## 其他有趣的个人项目
+### 电子吧唧
+> 小红书10w+观看量->[前往](https://www.xiaohongshu.com/discovery/item/6745d8ca00000000020281de?source=webshare&xhsshare=pc_web&xsec_token=ABmfFevtZvl5iq3aoLrTPxw4n_E8yBk-9AUwcBEYdjq0I=&xsec_source=pc_share)
+#### 技术栈关键字: SPI、Esp32、FreeRTOS
+### 对话机器人
+> 个人接的外包项目->[前往](https://www.xiaohongshu.com/discovery/item/66e553d50000000027004a61?source=webshare&xhsshare=pc_web&xsec_token=ABkxWNZ3AcOgOVEoYy_wr6MERXOoJLpR7lMfEqoYZ0gsw=&xsec_source=pc_share)
+#### 技术栈关键字: 香橙派、Ubuntu、Python、LLM、文字转语音、语音转文字、唤醒词检测
+### 水果钢琴
+> 实习期间的小项目->[前往](https://www.xiaohongshu.com/discovery/item/6755a809000000000103f61b?source=webshare&xhsshare=pc_web&xsec_token=ABhxJNR_TmIcKxweddFUSXdCt-9dasvAI9eZ15MZE2nr4=&xsec_source=pc_share)
+#### 技术栈关键字:Arduino、Esp32、接触式电容检测
